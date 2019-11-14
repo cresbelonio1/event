@@ -1,0 +1,27 @@
+2019-10-31T10:52:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::set_stock_quantity(), 0 passed in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\idanvip\includes\idn_inventory.class.php on line 20 and exactly 1 expected in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:953
+Stack trace:
+#0 E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\idanvip\includes\idn_inventory.class.php(20): WC_Product->set_stock_quantity()
+#1 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp-hook.php(286): IDN_inventory->idn_update_product_inventory(Object(WP))
+#2 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#4 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#5 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\functions. in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php on line 953
+
+2019-10-31T10:52:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::set_stock_quantity(), 0 passed in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\idanvip\includes\idn_inventory.class.php on line 20 and exactly 1 expected in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:953
+Stack trace:
+#0 E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\idanvip\includes\idn_inventory.class.php(20): WC_Product->set_stock_quantity()
+#1 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp-hook.php(286): IDN_inventory->idn_update_product_inventory(Object(WP))
+#2 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#4 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#5 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\functions. in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php on line 953
+
+2019-10-31T10:53:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::set_stock_quantity(), 0 passed in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\idanvip\includes\idn_inventory.class.php on line 20 and exactly 1 expected in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:953
+Stack trace:
+#0 E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\idanvip\includes\idn_inventory.class.php(20): WC_Product->set_stock_quantity()
+#1 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp-hook.php(286): IDN_inventory->idn_update_product_inventory(Object(WP))
+#2 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#4 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#5 E:\xampp\htdocs\michael\turbo_power\wp\wp-includes\functions. in E:\xampp\htdocs\michael\turbo_power\wp\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php on line 953
+
